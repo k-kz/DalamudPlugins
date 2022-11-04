@@ -2,7 +2,7 @@
   "Author": "Aulus mal Asina, k-kz",
   "Name": "Resonant-API7",
   "InternalName": "Resonant",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "Displays accurate player hitbox and positional outlines. Updated for API7 by k-kz.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/k-kz/Resonant-API7",
