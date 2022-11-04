@@ -93,7 +93,7 @@ def last_updated():
         master = json.load(f)
 
     for plugin in master:
-        latest = f'plugins/{plugin["InternalName"]}/latest.zip'
+        latest = f'plugins/Resonant-API7/{plugin["InternalName"]}/latest.zip'
         modified = int(getmtime(latest))
 
         if 'LastUpdated' not in plugin or modified != int(plugin['LastUpdated']):
