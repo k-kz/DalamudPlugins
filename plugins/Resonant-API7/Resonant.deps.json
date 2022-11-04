@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Resonant/1.0.0.2": {
+      "Resonant/1.0.0.3": {
         "dependencies": {
           "DalamudPackager": "2.1.8"
         },
@@ -18,7 +18,7 @@
     }
   },
   "libraries": {
-    "Resonant/1.0.0.2": {
+    "Resonant/1.0.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
