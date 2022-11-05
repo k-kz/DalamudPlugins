@@ -5,11 +5,12 @@
         "Punchline": "Displays accurate player hitbox and positional outlines. Updated for API7 by k-kz.",
         "Description": "Displays accurate player hitbox and positional outlines. Updated for API7 by k-kz.",
         "InternalName": "Resonant",
-        "AssemblyVersion": "1.0.0.3",
+        "AssemblyVersion": "1.0.0.5",
         "RepoUrl": "https://github.com/k-kz/Resonant-API7",
         "ApplicableVersion": "any",
         "Tags": [
-            "combat"
+            "combat",
+            "positional"
         ],
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
@@ -20,6 +21,6 @@
         "DownloadLinkTesting": "https://github.com/k-kz/DalamudPlugins/raw/main/plugins/Resonant-API7/Resonant/latest.zip",
         "DownloadLinkUpdate": "https://github.com/k-kz/DalamudPlugins/raw/main/plugins/Resonant-API7/Resonant/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1667605129"
+        "LastUpdated": "1667655467"
     }
 ]
