@@ -1,17 +1,20 @@
 {
   "Author": "Aulus mal Asina, k-kz",
-  "Name": "Resonant-API7",
+  "Name": "Resonant-API8",
   "InternalName": "Resonant",
-  "AssemblyVersion": "1.0.0.5",
-  "Description": "Displays accurate player hitbox and positional outlines. Updated for API7 by k-kz.",
+  "AssemblyVersion": "1.0.0.6",
+  "Description": "Displays accurate player hitbox and positional outlines. Updated for API8 by k-kz.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/k-kz/Resonant-API7",
+  "RepoUrl": "https://github.com/k-kz/Resonant-API8",
   "Tags": [
     "combat",
     "positional"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/k-kz/Resonant-API7/main/repo/resonant.png",
-  "Punchline": "Displays accurate player hitbox and positional outlines. Updated for API7 by k-kz."
+  "IconUrl": "https://raw.githubusercontent.com/k-kz/Resonant-API8/main/repo/resonant.png",
+  "Punchline": "Displays accurate player hitbox and positional outlines. Updated for API8 by k-kz.",
+  "AcceptsFeedback": true
 }
